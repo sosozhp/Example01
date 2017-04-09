@@ -30,6 +30,8 @@ public class MbgTutorialTest {
     
     
     //4444
+    
+    //555
     @BeforeClass
     public static void setUp() throws Exception {
         // create a SqlSessionFactory
