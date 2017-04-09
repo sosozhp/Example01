@@ -23,6 +23,8 @@ public class MbgTutorialTest {
 
     //comment add
     
+    //comment 2 add
+    
     @BeforeClass
     public static void setUp() throws Exception {
         // create a SqlSessionFactory
