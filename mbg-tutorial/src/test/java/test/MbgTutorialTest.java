@@ -21,6 +21,8 @@ import org.junit.Test;
 public class MbgTutorialTest {
     private static SqlSessionFactory sqlSessionFactory;
 
+    //comment add
+    
     @BeforeClass
     public static void setUp() throws Exception {
         // create a SqlSessionFactory
