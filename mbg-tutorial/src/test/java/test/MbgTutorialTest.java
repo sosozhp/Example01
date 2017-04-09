@@ -21,17 +21,10 @@ import org.junit.Test;
 public class MbgTutorialTest {
     private static SqlSessionFactory sqlSessionFactory;
 
-    //comment add
-    
-    //comment 2 add
-    
-    //3333
-    //commnt 3 add
-    
-    
-    //4444
-    
-    //555
+
+    //todo
+
+
     @BeforeClass
     public static void setUp() throws Exception {
         // create a SqlSessionFactory
