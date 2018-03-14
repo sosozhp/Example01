@@ -22,6 +22,10 @@ public class MbgTutorialTest {
     private static SqlSessionFactory sqlSessionFactory;
 
 
+    // this is soso changed
+
+
+
     //todo
 
 
