@@ -16,6 +16,7 @@ public class Car {
     private String maker;
 
 
+    private  String mynickName;
 
 
 
