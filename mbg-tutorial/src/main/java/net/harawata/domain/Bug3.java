@@ -17,6 +17,9 @@ public class Bug2 {
 
 
 haha
+hoho
+
+
 
   
 }
